@@ -1,0 +1,6 @@
+# Avoid committing sensitive data
+.gemini/
+.idea/
+.vscode/
+*.log
+tmp/
